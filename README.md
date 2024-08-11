@@ -14,4 +14,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AutoResponder.git
+   git clone https://github.com/Abhishek-Handibag/AutoResponder.git
